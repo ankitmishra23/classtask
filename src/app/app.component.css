@@ -1,0 +1,34 @@
+.taskrender_space{
+    height: 600px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+    top: -600px;
+}
+.button_space
+{
+    width: 100px;
+}
+
+.content_div{
+    width: 700px;
+    height: 500px;
+    position: relative;
+    left: 500px;
+    top:-600px;
+}
+
+.day{
+    background-color: palegoldenrod;
+    width: 100px;
+    height: 600px;
+}
+.taskdiv{
+    background-color: skyblue;
+    width: 200px;
+    height: 600px;
+}
+.contentdiv{
+    width: 600px;
+    height: 600px;
+}
